@@ -1,5 +1,6 @@
 # TheCatAPI
-Teste de API utilizando Rest-Assured, JUnit, Java, Maven.
+Estudo sobre teste de API utilizando Rest-Assured, JUnit, Java, Maven do Tiago Amaro (Udemy).
+- https://www.udemy.com/course/teste-api-rest-assured/
 
 Para rodar esse projeto (pule os passos caso já tenha feito anteriormente em sua máquina):
 
